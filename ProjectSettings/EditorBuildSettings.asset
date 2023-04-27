@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
+    path: Assets/Scenes/jmoya_hour14.unity
     guid: c688ee9f3c5934145a037b927dd4b867
   - enabled: 1
     path: Assets/Scenes/Game.unity
